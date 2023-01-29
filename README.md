@@ -9,6 +9,6 @@
 - 🔭 Learning HCI.
 - 🎓 Studying Computer Science.
 - ⭐️ DL & Open Source enthusiast.
-- 🥅 2022 Goals: Contribute to Open Source projects and Learn a lot.
+- 🥅 To be both a speaker of words and a doer of deeds.
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=Ayxm1412"> -->
